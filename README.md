@@ -1,6 +1,6 @@
 ## Hello Microverse
 
-![](HelloScreenshot.png)
+![](HelloScreenshot.PNG)
 
 This project is from the microverse curriculum. The main aim of this project is to  that students master the tools they will be using while submitting their project in the microverse program, tools like gitflow, linters, etc.
 
